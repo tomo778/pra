@@ -16,7 +16,7 @@ return [
 	*/
 
 	'site_name' => 'blog',
-	'mail' => 'test-ec@test.com',
+	'mail' => 'aaa@aaa.com',
 	'url' => 'http://localhost/',
 
 	/*
