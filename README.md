@@ -8,3 +8,5 @@ featuer2
 stash
 
 stash2
+
+バグ対応
