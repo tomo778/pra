@@ -14,3 +14,5 @@ stash3
 test
 
 test2
+
+featuer-new　featuer-new2 featuer-new3
